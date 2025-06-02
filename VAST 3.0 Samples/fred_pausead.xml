@@ -13,13 +13,13 @@
 <Linear>
 <Duration>00:00:05</Duration>
 <MediaFiles>
-<MediaFile id="c4_bigscreen" delivery="progressive" type="image/jpg" width="1280" height="720">
+<MediaFile id="c4_bigscreen" delivery="progressive" type="image/jpeg" width="1280" height="720">
 <![CDATA[ https://streamr-assets.s3.us-east-2.amazonaws.com/Channel+4+Pause+Ads/BIG+SCREEN+1280x720b.jpg ]]>
 </MediaFile>
-<MediaFile id="c4_desktop" delivery="progressive" type="image/jpg" width="1024" height="576">
+<MediaFile id="c4_desktop" delivery="progressive" type="image/jpeg" width="1024" height="576">
 <![CDATA[ https://streamr-assets.s3.us-east-2.amazonaws.com/Channel+4+Pause+Ads/com+1024x576b.jpg ]]>
 </MediaFile>
-<MediaFile id="c4_mobile" delivery="progressive" type="image/jpg" width="869" height="414">
+<MediaFile id="c4_mobile" delivery="progressive" type="image/jpeg" width="869" height="414">
 <![CDATA[ https://streamr-assets.s3.us-east-2.amazonaws.com/Channel+4+Pause+Ads/Mobile+869x414b.jpg ]]>
 </MediaFile>
 </MediaFiles>
